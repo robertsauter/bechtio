@@ -29,6 +29,12 @@ li {
     color: var(--mint);
 }
 
+@media (min-width: 420px) {
+    h1 {
+        font-size: 8.5rem;
+    }
+}
+
 @media (min-width: 624px) {
     h1 {
         font-size: 10rem;
